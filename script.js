@@ -10,7 +10,7 @@ taskList.addEventListener('click', removeTask);
 
 function addTask(e) {
     if (taskInput.value === '') {
-        alert('scrivi qualcosa')
+        alert('You have to write something!')
     }
     
 
